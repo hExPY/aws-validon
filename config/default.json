@@ -1,0 +1,11 @@
+{
+  "awsProfile": "default",
+  "policies": {
+    "path": "/does_not_exists",
+    "extension": ".scp.json"
+  },
+  "exceptions": {},
+  "logging": {
+    "level": "debug"
+  }
+}
